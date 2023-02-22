@@ -1,4 +1,4 @@
-# dall-e
+
 # A Full Stack MERN AI Image Generation App with  a modern and minimal design
 Provides a ability to create new AI generatedImages by Entering any text you can think off
 or by clicking on surprise me button and share your post with community
